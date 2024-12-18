@@ -21,10 +21,6 @@ Welcome to the Shiny Pokémon Bingo Card Generator! This tool helps you create c
 3. Click the "Generate" button to create a new bingo card.
 4. Print or save your bingo card and enjoy!
 
-## Contributing
-
-We welcome contributions! If you have any ideas or improvements, feel free to open an issue or submit a pull request on our [GitHub repository](https://github.com/itsmejoji/ShinyPokemonBingoGenerator).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/itsmejoji/ShinyPokemonBingoGenerator/blob/main/LICENSE) file for details.
