@@ -1,3 +1,9 @@
+title: Shiny Pokémon Bingo Card Generator
+description: Create custom bingo cards featuring shiny Pokémon with our easy-to-use generator.
+author: itsmejoji
+date: 2024-12-18
+
+
 # Shiny Pokémon Bingo Card Generator
 
 Welcome to the Shiny Pokémon Bingo Card Generator! This tool helps you create custom bingo cards featuring shiny Pokémon.
@@ -28,13 +34,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 For any questions or feedback, please reach out to us through our [GitHub Issues](https://github.com/itsmejoji/ShinyPokemonBingoGenerator/issues) page.
 
 Enjoy your shiny Pokémon bingo experience!
-
----
-title: Shiny Pokémon Bingo Card Generator
-description: Create custom bingo cards featuring shiny Pokémon with our easy-to-use generator.
-author: itsmejoji
-date: 2023-10-05
----
 
 ## Support
 
