@@ -2,9 +2,4 @@ theme: jekyll-theme-slate
 title: ItsMeJoji's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-# Navigation links
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Shiny Pokémon Bingo Card Generator"
-    url: "/shiny-pokemon-bingo-card-generator"
+
