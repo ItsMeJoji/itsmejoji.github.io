@@ -7,15 +7,18 @@ Welcome to the Shiny Pokémon Bingo Card Generator! This tool helps you create c
 ## Features
 
 - Generate bingo cards with random shiny Pokémon
-- Customize the size of your bingo card
-- Print or save your bingo card as an image
 
 ## Usage
 
 1. Visit the [Shiny Pokémon Bingo Card Generator](https://itsmejoji.github.io/ShinyPokemonBingoGenerator/).
-2. Select the desired size for your bingo card.
-3. Click the "Generate" button to create a new bingo card.
+2. On load, 25 Random Pokemon will be added to the Bingo Card.
+3. Click on the Pokemon to reroll them.
 4. Print or save your bingo card and enjoy!
+
+## Future Features
+
+- Allow user to add from a list of Pokemon to add onto the Bingo Card
+- Freeze Bingo Slots, as to avoid rerolling
 
 ## License
 
