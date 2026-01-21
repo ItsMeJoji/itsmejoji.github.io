@@ -2,7 +2,7 @@
 
 # Shiny Pokémon Bingo Card Generator
 
-Welcome to the Shiny Pokémon Bingo Card Generator! This tool helps you create custom bingo cards featuring shiny Pokémon.
+This tool helps you create custom bingo cards featuring shiny Pokémon.
 
 ## Features
 
@@ -17,22 +17,9 @@ Welcome to the Shiny Pokémon Bingo Card Generator! This tool helps you create c
 
 ## Future Features
 
+- Set a certain Generation/Game for hunting
 - Allow user to add from a list of Pokemon to add onto the Bingo Card
 - Freeze Bingo Slots, as to avoid rerolling
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/itsmejoji/ShinyPokemonBingoGenerator/blob/main/LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please reach out to us through our [GitHub Issues](https://github.com/itsmejoji/ShinyPokemonBingoGenerator/issues) page.
-
-Enjoy your shiny Pokémon bingo experience!
-
-## Support
-
-If you find this tool helpful and would like to support its development, consider starring the repository on [GitHub](https://github.com/itsmejoji/ShinyPokemonBingoGenerator) or sharing it with your friends.
 
 ## Acknowledgements
 
